@@ -1,0 +1,7 @@
+This canary text file confirms that all files and hashes listed below are human-made. They have not been modified by clankers, and we have not been forced to modify them in any way.
+
+(filename:hash digests go here)
+
+This file will be re-signed daily.
+
+More information: https://clankercanary.com/
